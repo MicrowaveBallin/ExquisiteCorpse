@@ -1,3 +1,3 @@
-# ExquisiteCorpse
+# ExquisiteCorpse OLD COPY
 Lab 8 - Game programming
 This is a version of Exquisite Corpse to learn how to use git.
